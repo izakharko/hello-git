@@ -38,4 +38,8 @@ drwxrwxr-x 8 adminaccount adminaccount 4096 Jun 17 14:30 .git
 -rw-rw-r-- 1 adminaccount adminaccount 1779 Jun 17 14:38 ls.txt
 -rw-rw-r-- 1 adminaccount adminaccount   12 Jun 15 13:57 README.md
 -rw-rw-r-- 1 adminaccount adminaccount    0 Jun 15 13:37 readme.txt
+hello from Ihor
+On branch master
+Your branch is up to date with 'origin/master'.
 
+nothing to commit, working tree clean
