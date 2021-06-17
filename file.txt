@@ -1,0 +1,8 @@
+total 20
+drwxrwxr-x 3 adminaccount adminaccount 4096 Jun 17 02:55 .
+drwxrwxr-x 3 adminaccount adminaccount 4096 Jun 15 13:34 ..
+-rw-rw-r-- 1 adminaccount adminaccount   55 Jun 16 13:11 andriy_file.txt
+-rw-rw-r-- 1 adminaccount adminaccount    0 Jun 17 03:47 file.txt
+drwxrwxr-x 8 adminaccount adminaccount 4096 Jun 16 13:13 .git
+-rw-rw-r-- 1 adminaccount adminaccount   12 Jun 15 13:57 README.md
+-rw-rw-r-- 1 adminaccount adminaccount    0 Jun 15 13:37 readme.txt
